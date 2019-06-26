@@ -176,7 +176,7 @@ footer p {
 }
 
 
-@media (min-width: 300px) and (max-width: 482px) {
+@media (min-width: 300px) and (max-width: 599px) {
 
   body {
     width: 100%;
