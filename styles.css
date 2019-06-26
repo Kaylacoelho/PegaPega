@@ -176,7 +176,7 @@ footer p {
 }
 
 
-@media (min-width: 300px) and (max-width: 490px) {
+@media (min-width: 300px) and (max-width: 482px) {
 
   body {
     width: 100%;
@@ -255,6 +255,6 @@ footer p {
 
   .footer-col {
     text-align: center;
-    text
+
   }
 }
